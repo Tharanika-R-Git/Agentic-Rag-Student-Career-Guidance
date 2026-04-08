@@ -4,6 +4,9 @@ Welcome to **Agentic-Rag-Student-Career-Guidance**: an AI-powered platform desig
 
 ---
 
+## Output
+![Output](./output.jpg)
+
 ## 🚀 Introduction
 
 **Agentic-Rag-Student-Career-Guidance** leverages advanced AI (Azure OpenAI) and robust retrieval mechanisms (FAISS) to deliver intelligent, context-aware responses to student queries. Upload documents (PDF/TXT/MD), chat with the bot, and get tailored guidance for your academic and career choices—all through a sleek, responsive interface.
